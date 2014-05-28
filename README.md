@@ -1,6 +1,6 @@
 nordic-semi-nRF51x-cts
 ======================
-# ble_cts - Current Time Service (Bluetooth low energy)
+ble_cts - Current Time Service (Bluetooth low energy)
 for Nordic Semiconductor nRF51x22
 
 ---
